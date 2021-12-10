@@ -8,8 +8,8 @@ public static void main(String[] args){
 
            
        if(isIdAvailable && boimetric){ //true
-        System.out.println("Inside if block");
-        System.out.println("Employe Logined");  
+        System.out.println("Inside if block condition");
+        System.out.println("Employe Logined succesfully");  
        }
 
 
