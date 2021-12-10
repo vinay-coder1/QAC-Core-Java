@@ -7,7 +7,7 @@ public class User {
 	
 	
 	 void login(String userName,String password) {
-		System.out.println("Login SuccessFull: "+userName);
+		System.out.println("Login SuccessFully: "+userName);
 	}
 		
 		
